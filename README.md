@@ -9,4 +9,4 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 ## Links
 
 - [GitHub Help: Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
-- [Image](https://www.youtube.com/watch?v=hHbWF1Bvgf4)
+- [GitHub Readme Images Tutorial, YouTube](https://www.youtube.com/watch?v=hHbWF1Bvgf4)
